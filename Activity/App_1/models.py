@@ -6,3 +6,5 @@ class profile (models.Model):
     last_name = models.CharField(max_length=256)
     age = models.IntegerField()
     status =models.BooleanField(default=True)
+
+# Comentario subir 
