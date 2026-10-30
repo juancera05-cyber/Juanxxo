@@ -95,14 +95,4 @@ Django llena `request.POST` solo para formularios enviados con POST. Para recibi
 
 ---
 
-## 6. Fuentes consultadas
 
-1. Django Documentation – *Class-based views (Introduction)*. https://docs.djangoproject.com/en/stable/topics/class-based-views/intro/
-2. Django Documentation – *Base views: View, dispatch(), http_method_not_allowed()*. https://docs.djangoproject.com/en/stable/ref/class-based-views/base/
-3. Django Documentation – *Request and response objects (HttpRequest, JsonResponse)*. https://docs.djangoproject.com/en/stable/ref/request-response/
-4. Django Documentation – *Django shortcut functions (get_object_or_404)*. https://docs.djangoproject.com/en/stable/topics/http/shortcuts/
-5. Django Documentation – *Cross Site Request Forgery protection (csrf_exempt)*. https://docs.djangoproject.com/en/stable/ref/csrf/
-6. Django Documentation – *Decorating class-based views (method_decorator)*. https://docs.djangoproject.com/en/stable/topics/class-based-views/intro/#decorating-class-based-views
-7. Django Documentation – *URL dispatcher (path, include)*. https://docs.djangoproject.com/en/stable/topics/http/urls/
-8. MDN Web Docs – *HTTP request methods*. https://developer.mozilla.org/es/docs/Web/HTTP/Methods
-9. MDN Web Docs – *Idempotent*. https://developer.mozilla.org/en-US/docs/Glossary/Idempotent
